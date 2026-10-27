@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/nbaonguyen111/T-Text#readme",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "caniuse-lite": "^1.0.30001819",
     "next": "^15.2.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
