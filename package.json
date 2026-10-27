@@ -1,0 +1,48 @@
+{
+  "name": "t-text",
+  "version": "1.0.0",
+  "description": "TeacherText - Ứng dụng soạn tài liệu cho giáo viên bằng ngôn ngữ đánh dấu riêng",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbaonguyen111/T-Text.git"
+  },
+  "keywords": [
+    "teachertext",
+    "markup",
+    "education",
+    "parser",
+    "nextjs"
+  ],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nbaonguyen111/T-Text/issues"
+  },
+  "homepage": "https://github.com/nbaonguyen111/T-Text#readme",
+  "dependencies": {
+    "next": "^15.2.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@vitest/coverage-v8": "^3.2.7",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.25.0",
+    "eslint-config-next": "^15.5.28",
+    "jsdom": "^26.1.0",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.7"
+  }
+}

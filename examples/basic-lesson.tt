@@ -1,0 +1,41 @@
+= GIÁO ÁN TOÁN LỚP 10 ==
+
+== Bài 1: Mệnh đề ==
+
+'''I. Mục tiêu'''
+
+* Hiểu khái niệm mệnh đề.
+* Xác định tính đúng sai của một mệnh đề.
+
+<lythuyet>
+Mệnh đề là một câu khẳng định có thể xác định tính đúng hoặc sai.
+Ví dụ: "2 + 3 = 5" là một mệnh đề đúng.
+"Hôm nay trời mưa" không phải là mệnh đề vì không xác định được địa điểm, thời gian.
+</lythuyet>
+
+<vidu>
+Cho P: "2 + 3 = 5".
+Kết luận: P là mệnh đề đúng.
+
+Cho Q: "Hãy đóng cửa lại".
+Kết luận: Q không phải là mệnh đề (là mệnh lệnh).
+</vidu>
+
+<cauhoi id="C1" loai="trac-nghiem">
+Câu 1: Dưới đây có mệnh đề nào?
+
+A. Hãy đến đây.
+B. 2 + 2 = 5.
+C. Trời xanh đó!
+D. Em yêu toán.
+
+<dapan>B</dapan>
+<loigiai>B là câu khẳng định có thể xác định tính đúng/sai, nên là mệnh đề.</loigiai>
+</cauhoi>
+
+<cauhoi id="C2" loai="tu-luan">
+Câu 2: Giải thích tại sao "Hôm nay đẹp trời" có thể không phải là mệnh đề?
+
+<dapan>Vì câu này không xác định được cụ thể ngày nào, nơi nào, nên không thể xác định tính đúng/sai.</dapan>
+<loigiai>Một mệnh đề phải là câu khẳng định có thể xác định tính đúng hoặc sai. "Hôm nay đẹp trời" phụ thuộc vào ngữ cảnh thời gian và địa điểm.</loigiai>
+</cauhoi>
